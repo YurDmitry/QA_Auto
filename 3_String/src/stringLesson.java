@@ -1,6 +1,6 @@
 public class stringLesson {
 	
-	public static void main(String[] strg) {
+	public static void main(String[] args) {
 		String name = "My name is Dmitry.";
 		int len = name.length();
 		System.out.println(name + "\nLength of this string: " + len);

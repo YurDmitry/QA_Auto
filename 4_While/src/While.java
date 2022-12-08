@@ -1,6 +1,6 @@
 public class While {
 
-	public static void main(String[] strg) {
+	public static void main(String[] args) {
 		System.out.print("Fibonacci numbers:\n");
 		int i = 0;
 		int n1 = 1, n2 = 1, n3;
